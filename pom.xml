@@ -43,7 +43,7 @@
 
         <version.junit>5.13.4</version.junit>
         <version.assertj>3.27.6</version.assertj>
-        <version.mockito>5.20.0</version.mockito>
+        <version.mockito>5.21.0</version.mockito>
         <version.logcaptor>2.12.1</version.logcaptor>
         <version.logback>1.5.21</version.logback>
 
