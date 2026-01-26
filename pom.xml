@@ -45,7 +45,7 @@
         <version.assertj>3.27.6</version.assertj>
         <version.mockito>5.21.0</version.mockito>
         <version.logcaptor>2.12.2</version.logcaptor>
-        <version.logback>1.5.25</version.logback>
+        <version.logback>1.5.26</version.logback>
 
         <version.jacoco-maven-plugin>0.8.14</version.jacoco-maven-plugin>
         <version.maven-surefire-plugin>3.5.4</version.maven-surefire-plugin>
