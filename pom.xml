@@ -44,7 +44,7 @@
         <version.junit>5.14.4</version.junit>
         <version.assertj>3.27.7</version.assertj>
         <version.mockito>5.23.0</version.mockito>
-        <version.logcaptor>2.12.6</version.logcaptor>
+        <version.logcaptor>2.12.7</version.logcaptor>
         <version.logback>1.6.3</version.logback>
 
         <version.jacoco-maven-plugin>0.8.15</version.jacoco-maven-plugin>
